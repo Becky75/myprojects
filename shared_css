@@ -108,7 +108,8 @@ section {
     height: 100%;
     width: 100%;
     position: absolute;
-    /* This ensurers that the images cannot render outsid of their container without forcing any <scroolbars></scroolbars>overflow: hidden;
+    /* This ensurers that the images cannot render outsid of their container without forcing any school bars */
+    overflow: hidden;
     top: 0;
     left: 0;
     text-align: center;
@@ -118,12 +119,10 @@ section {
     max-height: 340px;
     margin: 0% auto;
     content: "";
-    /* top: 0;*/
-    /* postion absultue;*/ /*to the top edge of the screen */
     width: 100%;
     position: fixed;
     z-index: 100%;
-/*background-color: rgba(255,255,255, 0.5)
+    background-color: rgba(255,255,255, 0.5)
 }
 /*----------------------------------------------------
 HOME SECTION STYLES
