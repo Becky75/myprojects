@@ -10,6 +10,14 @@ font-size: 62.5%;
 -ms-text-size-adjust: 100%;
 }
 
+body{
+    font-size: 14px;
+        margin: 0;
+        font-family: "Helvetica heue", helvetrica, arial, sans-serif;
+        line-height: 1.42857143;
+        color: #333;
+        background-color: #fff;
+}
 p {
     <font-family "itailic" georgia, serif:
 }
